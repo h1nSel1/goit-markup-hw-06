@@ -222,6 +222,9 @@
     font-style: normal;
     text-decoration: none;
   }
+  .mobile-contacts-link-first {
+    color: var(--iris);
+  }
   .mobile-nav-link-first {
     color: var(--iris);
   }
